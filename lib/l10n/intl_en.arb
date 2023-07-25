@@ -1,0 +1,29 @@
+{
+  "def_loading": "加载中",
+  "def_empty": "暂无数据",
+  "def_delete_success": "删除成功",
+  "def_symbol": "交易对",
+  "def_failed": "失败",
+  "def_finish": "已完成",
+
+  "error_page": "未找到页面",
+  "error_net": "暂无网络，请检查网络状态",
+  "error_parse": "数据解析错误",
+  "error_connect_timeout": "网络连接超时，请检查网络设置",
+  "error_server": "服务异常",
+  "error_ssl": "证书错误",
+  "error_unknow": "未知错误",
+  "network_bad": "当前网络状况不佳",
+  "switch_network_and_retry": "请切换网络后重试",
+  "click_to_refresh": "点击刷新",
+
+  "load_loading": "正在加载中...",
+  "load_noData": "没有更多数据",
+  "load_finish": "到底了",
+
+
+  "action_to_deposit": "去充值",
+  "action_quick_share": "立即分享",
+  "action_set": "设置",
+  "action_alert": "提醒"
+}
